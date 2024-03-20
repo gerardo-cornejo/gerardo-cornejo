@@ -17,8 +17,8 @@
 
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=fnaquira&show_icons=true&theme=gotham" alt="fnaquira" width="45%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fnaquira&theme=dark" width="48%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=gerardo-cornejo&show_icons=true&theme=gotham" alt="gerardo-cornejo" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gerardo-cornejo&theme=dark" width="48%" >
 
  
 <!---
