@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: me gusta hacer, de mi ambiente de trabajo, el más flexible y amigable :)
 
-#Tech Stack
+##Tech Stack
 <br>
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
