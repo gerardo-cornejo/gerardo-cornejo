@@ -1,6 +1,6 @@
 - 👋 Hola!, soy Gerardo.
-- 👀 Estoy interesado en Desarrollo de software
-- 🌱 Actualmente estoy aprendiendo Codeigniter 4
+- 👀 Estoy interesado en Desarrollo de software, música
+- 🌱 Actualmente estoy aprendiendo Next JS
 - 📫 Encuéntrame en LinkedIn: https://www.linkedin.com/in/gerardo-manuel20/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: me gusta hacer, de mi ambiente de trabajo, el más flexible y amigable :)
