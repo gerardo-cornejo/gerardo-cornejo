@@ -1,7 +1,7 @@
 - 👋 Hola!, soy Gerardo.
 - 👀 Estoy interesado en Desarrollo de software, música
 - 🌱 Actualmente estoy aprendiendo Next JS
-- 📫 Encuéntrame en LinkedIn: https://www.linkedin.com/in/gerardo-manuel20/
+- 📫 Encuéntrame en LinkedIn: [Gerardo Cornejo](https://www.linkedin.com/in/gerardo-cornejo-alcantara/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: me gusta hacer, de mi ambiente de trabajo, el más flexible y amigable :)
 
